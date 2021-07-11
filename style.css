@@ -1,0 +1,19 @@
+body {
+  background-color: lavender;
+
+}
+
+.background {background-color: lavender ;}
+
+
+.jumbotron {
+    /* background-image: url("this.jpg"); */
+    background-color: lavender;
+    background-size: 100% 100%;
+    text-align: center;
+  }
+
+/* .nsewdrag.drag{
+  fill: lavender !important;
+}
+ */
